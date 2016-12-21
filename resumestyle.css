@@ -8,11 +8,12 @@ body {
 }
 
 header {
+  margin:20px;
   
 }
 
 .profile {
-  background: red;
+  background: white;
  
 }
 
