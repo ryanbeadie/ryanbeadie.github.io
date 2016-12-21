@@ -16,4 +16,6 @@ header {
 }
 
 .professional experience {
+  boarder-style: solid;
+  boarder-width: 5px
 }
