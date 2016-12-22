@@ -2,7 +2,16 @@ body {
   background:rgb(128,128,128);
   font-family: arial, helvetica, sans-serif;
   font-size: 12pt;
-  }
+}
+
+  ul {
+    text-align:center;  
+}
+
+li }
+    text-align:center;
+}
+
 .image {
   
  
@@ -14,8 +23,7 @@ header {
   
   
 }
-  ul {
-    text-align:center;
+ 
 }
 .profile {
   line-height:1;
