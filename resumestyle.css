@@ -18,15 +18,16 @@ ul {
 }
 
 .image {
-  clear:right;
+  float:center;
    
   
  
 }
 
 header {
-  margin:;
+  
   text-align: center;
+  
   
   
 }
