@@ -4,8 +4,14 @@ body {
   font-size: 12pt;
 }
 
-h4 {text-align:center;}
-li-ul {text-align:center;}
+h4 {
+  text-align:center;
+  background-color:white;
+}
+
+ul {
+  text-align:center;
+}
 
 .image {
    
