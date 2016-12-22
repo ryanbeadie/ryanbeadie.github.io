@@ -4,14 +4,6 @@ body {
   font-size: 12pt;
 }
 
-  ul {
-    text-align:center;  
-}
-
-li }
-    text-align:center;
-}
-
 .image {
   
  
@@ -24,15 +16,15 @@ header {
   
 }
  
-}
+
 .profile {
   line-height:1;
+  text-align:center;
  
  
 }
 
 .professional experience {
-  text-align: center;
   line-height:0;
   
 }
