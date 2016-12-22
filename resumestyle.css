@@ -4,11 +4,13 @@ body {
   font-size: 12pt;
   }
 .image {
+  
  
 }
 
 header {
   margin:;
+  text-align: center;
   
   
 }
@@ -20,6 +22,7 @@ header {
 }
 
 .professional experience {
+  text-align: center;
   line-height:0;
   
 }
