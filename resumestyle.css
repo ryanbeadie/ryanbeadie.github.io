@@ -14,10 +14,12 @@ header {
   
   
 }
-
+  ul {
+    text-align:center;
+}
 .profile {
   line-height:1;
-  text-align: center;
+ 
  
 }
 
