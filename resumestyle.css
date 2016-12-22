@@ -1,12 +1,12 @@
 body {
-  background:rgb(128,128,128);
+  background:white;
   font-family: arial, helvetica, sans-serif;
   font-size: 12pt;
 }
 
 h4 {
   text-align:center;
-  background-color:white;
+  background-color:rgb(128,128,128);
 }
 
 h3 {
@@ -14,7 +14,7 @@ h3 {
 }
 
 ul {
-  text-align:center;
+ 
 }
 
 .image {
